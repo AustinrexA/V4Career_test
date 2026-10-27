@@ -1,0 +1,28 @@
+{
+  "mode": "read-only JobSpy test; no database writes",
+  "keyword": "Python Developer",
+  "location": "Chennai",
+  "requested_results_per_site": 25,
+  "sites": [
+    {
+      "site": "indeed",
+      "status": "results",
+      "rows": 25,
+      "errors": {},
+      "warnings": {},
+      "csv": "jobspy_test_results\\indeed_chennai_python_developer.csv"
+    },
+    {
+      "site": "naukri",
+      "status": "results",
+      "rows": 25,
+      "errors": {},
+      "warnings": {},
+      "csv": "jobspy_test_results\\naukri_chennai_python_developer.csv"
+    }
+  ],
+  "unsupported_requested_sites": [],
+  "combined_rows_before_deduplication": 50,
+  "combined_csv": "jobspy_test_results\\jobspy_combined_test.csv",
+  "unique_nonempty_job_urls": 50
+}

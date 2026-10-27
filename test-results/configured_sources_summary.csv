@@ -1,0 +1,20 @@
+﻿portal,key,status,exit_code,elapsed_seconds,log_file,started_at
+Naukri,NAUKRI,SUCCESS,0,20.44,test-results\source_logs\NAUKRI.log,2026-10-27T12:05:14+05:30
+Indeed,INDEED,SUCCESS,0,25.8,test-results\source_logs\INDEED.log,2026-10-27T12:05:35+05:30
+Foundit,FOUNDIT,SUCCESS,0,13.78,test-results\source_logs\FOUNDIT.log,2026-10-27T12:06:01+05:30
+TimesJobs,TIMESJOBS,SUCCESS,0,14.97,test-results\source_logs\TIMESJOBS.log,2026-10-27T12:06:14+05:30
+Internshala,INTERNSHALA,SUCCESS,0,14.86,test-results\source_logs\INTERNSHALA.log,2026-10-27T12:06:29+05:30
+Freshersworld,FRESHERSWORLD,SUCCESS,0,15.72,test-results\source_logs\FRESHERSWORLD.log,2026-10-27T12:06:44+05:30
+Cutshort,CUTSHORT,SUCCESS,0,18.33,test-results\source_logs\CUTSHORT.log,2026-10-27T12:07:00+05:30
+Instahyre,INSTAHYRE,FAILED,1,1.48,test-results\source_logs\INSTAHYRE.log,2026-10-27T12:07:18+05:30
+Hirist,HIRIST,SUCCESS,0,13.88,test-results\source_logs\HIRIST.log,2026-10-27T12:07:20+05:30
+Apna,APNA,FAILED,1,13.11,test-results\source_logs\APNA.log,2026-10-27T12:07:34+05:30
+Shine.com,SHINE_COM,SUCCESS,0,16.22,test-results\source_logs\SHINE_COM.log,2026-10-27T12:07:47+05:30
+Wellfound,WELLFOUND,SUCCESS,0,11.8,test-results\source_logs\WELLFOUND.log,2026-10-27T12:08:03+05:30
+National Career Service (NCS),NATIONAL_CAREER_SERVICE_NCS,SUCCESS,0,12.0,test-results\source_logs\NATIONAL_CAREER_SERVICE_NCS.log,2026-10-27T12:08:15+05:30
+iimjobs,IIMJOBS,SUCCESS,0,12.06,test-results\source_logs\IIMJOBS.log,2026-10-27T12:08:27+05:30
+WorkIndia,WORKINDIA,FAILED,1,33.09,test-results\source_logs\WORKINDIA.log,2026-10-27T12:08:39+05:30
+Jooble,JOOBLE,SUCCESS,0,42.41,test-results\source_logs\JOOBLE.log,2026-10-27T12:09:12+05:30
+QuikrJobs,QUIKRJOBS,SUCCESS,0,18.84,test-results\source_logs\QUIKRJOBS.log,2026-10-27T12:09:54+05:30
+Jora,JORA,FAILED,1,1.61,test-results\source_logs\JORA.log,2026-10-27T12:10:13+05:30
+Glassdoor,GLASSDOOR,FAILED,1,1.56,test-results\source_logs\GLASSDOOR.log,2026-10-27T12:10:15+05:30

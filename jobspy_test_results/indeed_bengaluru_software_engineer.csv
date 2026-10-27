@@ -1,0 +1,602 @@
+﻿id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-69fc80bb0cea6a2d,indeed,https://in.indeed.com/viewjob?jk=69fc80bb0cea6a2d,https://career8.successfactors.com/career?company=MoodysProd&career_ns=job_listing&career_job_req_id=15725&lang=en_US&source=Indeed,Staff Software Engineer,Moody's,"KA, India",2026-10-27,,,,,,,False,,,,,"At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate uncertainty with clarity, speed, and confidence.
+
+If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into actions, and uphold trust through integrity.
+
+**Skills and Competencies**
+
+* 9+ years of hands-on software engineering experience, delivering high-impact, multi-team initiatives with measurable business outcomes
+* Strong programming expertise in one or more of Java, Scala, C#, C++, and Python, with a deep understanding of data structures, algorithms, and complexity analysis
+* Proven experience with data platforms at scale, including relational databases (Postgres, MySQL, SQL Server, Oracle) and NoSQL data stores, with strong query processing knowledge
+* Expertise in building production-grade RESTful APIs and microservices with a focus on scalability, robustness, security, and reliability
+* Hands-on experience with cloud-native and on-prem systems, leveraging Docker, Kubernetes, and modern deployment practices for cost-effective execution
+* Advanced systems knowledge, including multi-threading, memory management, software design principles, architecture best practices, and writing well-tested, high-quality code
+* Strong problem-solving mindset and resilience, with deep knowledge of testing strategies, system health monitoring, and adaptability to organizational and technical change
+* Deep expertise in artificial intelligence, with a track record of implementing advanced AI solutions to drive strategic transformation and operational efficiency. Strong experience using AI tools to lead innovation initiatives. Demonstrated leadership in managing AI-related risks, ensuring ethical governance, and fostering a culture of responsible AI adoption across the organization.
+
+**Education**
+
+* Bachelor’s or master’s degree in computer science, engineering, or a related discipline, or equivalent professional experience
+
+**Responsibilities**
+
+* Provide senior technical leadership by defining and executing multi-year engineering strategies that deliver measurable business and customer impact.
+* Define and execute multi-year, multi-team technical strategies that align with business priorities and customer outcomes
+* Lead large-scale, high-stakes initiatives, effectively managing complexity, ambiguity, risk, and quality at scale
+* Drive alignment across engineering, product, and business teams to prioritize work that maximizes organizational value
+* Exercise strong technical judgment to influence roadmaps, architectural direction, and strategic decisions across teams
+* Build and evolve robust, scalable software architectures designed to support growth, flexibility, and new use cases
+* Mentor and coach engineers across teams, fostering a strong growth mindset, technical excellence, and high performance
+* Partner closely with product leaders and stakeholders, balancing technical trade-offs, diverse viewpoints, and long-term versus short-term needs
+* Act as a role model by leading technical discussions, reviews, documentation, and change initiatives while embodying collaboration and Moody’s core values
+
+**About the Team**  
+The engineering team develops cutting-edge software, sophisticated models, and advanced analytics that power risk quantification for the global multi-trillion-dollar property and casualty insurance market. The team’s work enables organizations worldwide to better understand and manage the risks of natural and human-made catastrophes, including hurricanes, earthquakes, floods, wildfires, terrorism, cyber threats, climate change, and pandemics.
+
+Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic information, physical or mental disability, military or veteran status, or any other characteristic protected by law.
+
+Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.  
+For more information on the Securities Trading Program, please refer to the Securities Trading Policy on Moody’s Compliance Expo page  
+  
+Please note: STP categories are assigned by the hiring teams and are subject to change over the course of an employee’s tenure with Moody’s.",,https://in.indeed.com/cmp/Moody's-9dbf4b88,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/df609c459643586ac28cb9190a735da6,https://www.moodys.com/,"New York, NY",Decline to state,Decline to state,"In a world shaped by increasingly interconnected risks, Moody’s helps customers develop a holistic view of these risks to advance their business and act decisively.",,,3.6,589,,
+in-1e5c0ba4ea40369b,indeed,https://in.indeed.com/viewjob?jk=1e5c0ba4ea40369b,https://careers.cisco.com/global/en/job/2028103,"Software Engineer - 3 to 5yrs - Python, Automation, Networking",Cisco,"KA, India",2026-10-27,fulltime,,,,,,False,,,,,"The Opportunity
+  
+  
+Join our QA teamCisco’s multi-cloud Fabricwhich has GA release in Early 2027. As a QA/Test Automation Engineer, you’ll build automated tests, validate complex networking scenarios (IPsec tunnels, BGP routing, AutoVPN), and ensure quality across AWS, Azure, and GCP.
+  
+  
+**Your Impact:** Create test automation for MCF’s GA launch. You’ll ensure the foundation is rock-solid for production deployments.
+  
+  
+**The Team:** You’ll work closely with senior QA engineers and learn from experienced mentors.
+  
+  
+What You’ll Do
+  
+  
+
+* Write Automated Tests: Create and maintain tests using Python with Pytest, Robot Framework, or Selenium
+* Execute E2E Tests: Validate networking scenarios including IPsec tunnels, BGP routing, and AutoVPN mesh across clouds
+* Multi-Cloud Testing: Test functionality across AWS, Azure, and GCP regions ensuring consistent behavior
+* AI-Assisted Testing: Use Cursor and Codex to accelerate test writing and generate test cases
+* API Testing: Help develop API test suites for MCN control plane services
+* Bug Tracking: Document bugs with clear reproduction steps and work with developers to resolve issues
+
+You’re a Great Fit If You Have
+  
+  
+Required (Must Have)
+  
+  
+
+* 3-5 yearsQA automationexperience
+* Python proficiencyfor test automation
+* Test framework experience- Pytest, Robot Framework, Selenium, or Cypress
+* API testing- REST APIs and basic HTTP concepts
+* Basic networking knowledge or strong interest in learning
+* Detail-oriented approach to testing and quality
+
+Preferred (Nice to Have)
+  
+  
+
+* Cloud platform exposure (AWS, Azure, or GCP)
+* CI/CD pipeline integration experience
+* Docker or container technologies
+* Networking or security testing
+
+We’ll Teach You
+  
+  
+
+* Multi-cloud networking concepts (IPsec, BGP, AutoVPN, VPN)
+* Testing distributed systems across regions and clouds
+* AI-powered testing with MCP servers and agents
+
+Tech Stack
+  
+  
+**Core:** Python, Pytest, Robot Framework, Selenium
+  
+**Languages:** Python (primary), JavaScript (UI tests)
+  
+**Cloud:** AWS, Azure, GCP
+  
+**Tools:** Docker, Kubernetes, GitHub Actions, Grafana
+  
+  
+We know everyone’s stack is different and skills translate. If you’ve used comparable test frameworks and love learning, you’re likely a great fit.
+  
+  
+Standout Candidates Have
+  
+  
+
+* Networking or security testingexperience
+* Performance or load testingwith Locust, k6, or JMeter
+* BDD (Behavior Driven Development)experience
+* Open-source contributions to testing tools
+
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",,https://in.indeed.com/cmp/Cisco,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6bbb92c37d8935479e9d5f18032b42ba,http://www.cisco.com,"San Jose, CA","10,000+",more than $10B (USD),Our Purpose at Cisco is to Power an Inclusive Future for All. We do that by revolutionizing how data and infrastructure securely connect and protect organizations in the AI era – and beyond.,,,4.1,6657,,
+in-5018079f5b2b73a7,indeed,https://in.indeed.com/viewjob?jk=5018079f5b2b73a7,https://apply.careers.microsoft.com/careers/job/1970393557045704?utm_source=indeed&domain=microsoft.com,Software Engineer II,Microsoft,"KA, India",2026-10-26,fulltime,,,,,,False,,,,,"**Overview**
+
+Join the Foundry Agents Platform team and help build reliable experiences that enable developers and enterprises to create, deploy, and operate AI agents. You will design and implement platform features, learn from experienced engineers, and contribute across the development lifecycle for a high-priority CoreAI charter. Microsoft’s mission is to empower every person and every organization on the planet to achieve more, and our culture encourages a growth mindset and teams and leaders to bring their best each day.
+
+ **Responsibilities**
+
+**Responsibilities**
+
+* Design, implement, test, and maintain features for the Foundry Agents Platform.
+* Collaborate with engineers, product managers, and partner teams to translate requirements into reliable solutions.
+* Write maintainable code and participate in design and code reviews.
+* Improve service quality through automated testing, monitoring, and operational tooling.
+* Diagnose and resolve defects and production issues.
+* Contribute to release planning and deliver committed milestones.
+* Learn and apply distributed-systems, cloud, and AI-platform engineering practices.
+
+  
+**Qualifications**
+
+**Required/Minimum Qualifications:**
+
+* Bachelor's degree in Computer Science or related technical field AND 2+ years of technical engineering experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript/TypeScript, Go, or Python, OR equivalent experience.
+* 3+ years of experience designing, building, and operating production-grade software and services at scale, with a proven track record of delivering high-impact solutions.
+
+**Preferred Qualifications:**
+
+* Experience developing and testing cloud services, web services, or distributed applications.
+
+* Familiarity with Azure, Kubernetes, microservices, REST APIs, or event-driven systems.
+
+* Familiarity with AI/ML platforms, generative AI, or developer tooling.
+
+* Experience with automated testing, monitoring, debugging, and production support.
+
+**Other Requirements**Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form. Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**",Internet And Software,https://in.indeed.com/cmp/Microsoft,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/88813b3f866a5b58c9685073e3b87e05,http://www.microsoft.com/,"One Microsoft Way Redmond, Washington 98052-6399","10,000+",more than $10B (USD),Our mission is to empower every person and every organization on the planet to achieve more.,,,4.2,8986,,
+in-fb77c63c5785e8f1,indeed,https://in.indeed.com/viewjob?jk=fb77c63c5785e8f1,https://careers.cisco.com/global/en/job/2027586,Software Engineer,Cisco,"KA, India",2026-10-26,fulltime,,,,,,False,,,,,"At Cisco Meraki, our intuitive platform enables organizations of all sizes to deliver customer and employee experiences at scale. To provide best-in-class technologies to our customers, we've created an unrivaled company culture for our employees. One that is collaborative, flexible, and inclusive, and provides employees with the autonomy to develop technology that is intuitive, secure, and accessible for everyone.
+  
+Our Dashboard teams build and maintain our web applications, which manage millions of network devices from our cloud. Our customers use the Meraki Dashboard to monitor and configure critical IT infrastructure that serves tens of millions of people every day.
+  
+  
+Your Impact
+  
+As a Full Stack Software Engineer, you will collaborate with firmware, backend, SRE, and dashboard engineers to architect, design, and build large-scale systems. You will enable connections between over a million network devices and our products. Given our large footprint, quality is our highest priority. With help from product managers and firmware engineers, you will construct intuitive yet powerful systems that will be used by customers via the Meraki Dashboard.
+  
+  
+
+* Design and develop software systems and enhance backend features.
+* Collaborate with engineers from backend, SRE, dashboard, and support teams to ensure seamless integration, maintain system reliability, enhance user interfaces, and provide comprehensive support for end users.
+* Identify and address performance issues.
+* Follow established coding standards and contribute insights to improve team knowledge.
+
+Minimum Qualifications
+  
+  
+
+* 4+ years of experience writing production code and tests for medium to large-scale systems.
+* 4+ years of experience in full-stack technologies, such as Ruby on Rails, Python, React.js, and JavaScript.
+* Ability to design efficient databases and optimize query performance in a relational database like Postgres.
+* Demonstrate ownership of tasks within the development process, from conception to implementation.
+* A keen interest in understanding user needs and contributing to product development.
+* Strong communication skills to articulate ideas clearly and work effectively within a team.
+
+Preferred Qualifications
+  
+  
+
+* Experience building cloud-based infrastructure and services (e.g., web applications).
+* Experience with container solutions (Kubernetes).
+
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",,https://in.indeed.com/cmp/Cisco,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6bbb92c37d8935479e9d5f18032b42ba,http://www.cisco.com,"San Jose, CA","10,000+",more than $10B (USD),Our Purpose at Cisco is to Power an Inclusive Future for All. We do that by revolutionizing how data and infrastructure securely connect and protect organizations in the AI era – and beyond.,,,4.1,6657,,
+in-838d736f0f8e2842,indeed,https://in.indeed.com/viewjob?jk=838d736f0f8e2842,https://careers.nike.com/software-engineer-i-itc/job/R-94808,"Software Engineer I, ITC",NIKE,"KA, India",2026-10-23,fulltime,,,,,,False,,,,,"Position Type
+
+Full Time
+
+Career area
+
+Software Engineering
+
+Location
+
+4/F, WeWork, Embassy GolfLinks, Karnataka, Karnātaka 560093, India
+
+Job ID
+
+R-94808
+
+Become a Part of the NIKE, Inc. Team
+
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+
+**WHO YOU’LL WORK WITH**
+
+You will be part of the Global Technology organization and report to the Engineering Manager. On a daily basis, you will collaborate with peer software engineers, product managers, and architects on product teams to achieve business objectives. Additionally, you will engage with other Global Technology teams to align on both organizational and individual development goals.
+
+  
+
+**WHO WE ARE LOOKING FOR**
+
+We are seeking a ambitious Full Stack Software Engineer to join our dynamic team. You’ll be responsible for developing and maintaining both front-end and back-end applications, ensuring seamless and scalable experiences for users. You will play a critical role in building robust features, maintaining system performance, and collaborating across teams to deliver high-quality cloud native software solutions. If you thrive in a collaborative environment, are energized by innovative technology, and excel at problem-solving, this role may be a great fit for you.
+
+Key Qualifications:
+
+* Bachelor’s Degree in Computer Science, Engineering, or a related field (or equivalent experience).
+* 1+ years of professional experience as a Full Stack Software Engineer or in a similar role.
+* Hands on Exposure on Front-End Skills in React or similar technologies.
+* Hands on Exposure on in server-side programming languages such as Node.js, Python or similar.
+* Database Expertise: Experience NoSQL databases.
+* API Development: Hands on exposure to designing and consuming RESTful APIs and web services.
+* Cloud Technologies: Familiarity with cloud platforms preferably AWS, including experience with serverless architectures and cloud-native development.
+* Version Control: Proficient with Git, GitHub, or similar version control tools.
+* Testing Frameworks: Experience with unit testing, integration testing, and test-driven development (TDD).
+* Problem-Solving: Strong debugging, troubleshooting, and performance optimization skills.
+* Collaboration: Excellent communication and interpersonal skills, with the abiity to work well in a team-oriented, fast-paced environment.
+
+Bonus Skills:
+
+* Familiarity with CI/CD tools (e.g., Jenkins, CircleCI, GitLab), containerization
+* technologies like Docker, or familiarity with microservices architecture.
+* Ability to thrive in a fast-paced, dynamic environment with ambiguity.
+
+**WHAT YOU’LL WORK ON**
+
+As a Software Engineer I, you will:
+
+* Design & Develop: Build, test, and maintain scalable web applications and services. Work on both front-end and back-end development to deliver end-to-end functionality.
+* Collaborate: Work closely with product managers, designers, and other engineers to define requirements, technical specifications, and deliver quality software.
+* Front-End Development: Implement dynamic, responsive, and user-friendly web interfaces using modern JavaScript frameworks ( React).
+* Back-End Development: Design and implement RESTful APIs, microservices, and backend services using technologies like Node.js, Python or similar.
+* Database Management: Develop NoSQL databases, ensuring efficient data storage and retrieval.
+* Testing & Quality Assurance: Write unit tests, integration tests, and maintain high code
+* quality standards using tools such as Jest, Mocha, or similar.
+* Performance Optimization: Identify and fix performance bottlenecks across the full stack,
+* ensuring high availability and responsiveness. CI/CD Integration: Integrate with and maintain continuous integration/continuous deployment (CI/CD) pipelines for seamless software delivery.
+* Agile Methodologies: Participate in Agile processes, including sprint planning, daily stand-ups, code reviews, and retrospectives.
+
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete\* in the world.
+
+NIKE, Inc. is an equal opportunity employer. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+
+What You Can Expect
+
+**OUR HIRING GAME PLAN**
+------------------------
+
+### **01 Apply**
+
+Our teams are made up of diverse skillsets, knowledge bases, inputs, ideas and backgrounds. We want you to find your fit – review job descriptions, departments and teams to discover the role for you.
+
+### **02 Meet a Recruiter or Take an Assessment**
+
+If selected for a corporate role, a recruiter will reach out to start your interview process and be your main contact throughout the process. For retail roles, you’ll complete an interactive assessment that includes a chat and quizzes and takes about 10-20 minutes to complete. No matter the role, we want to learn about you – the whole you – so don’t shy away from how you approach world-class service and what makes you unique.
+
+### **03 Interview**
+
+Go into this stage confident by doing your research, understanding what we are looking for and being prepared for questions that are set up to learn more about you, and your background.",,https://in.indeed.com/cmp/Nike,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ad360a3f4ed7004ddb751f230b3558a1,https://jobs.nike.com,"Beaverton, OR","10,000+",more than $10B (USD),"NIKE, Inc. is the world’s leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories for a wide variety of sports and fitness activities.",,,4.1,13449,,
+in-872920df73fc7286,indeed,https://in.indeed.com/viewjob?jk=872920df73fc7286,https://jobs.natwestgroup.com/jobs/18256839-software-engineer,Software Engineer,NatWest Group,"KA, India",2026-10-23,fulltime,,,,,,False,,,,,"Closing date for applications: 05/11/2026
+
+Location Bangalore, India
+
+Job typePermanent | Contract typeFull Time
+
+#R-00285308
+
+  
+
+**Join our digital revolution in NatWest Digital X**
+----------------------------------------------------
+
+In everything we do, we work to one aim. To make digital experiences which are effortless and secure.
+
+So we organise ourselves around three principles: engineer, protect, and operate. We engineer simple solutions, we protect our customers, and we operate smarter.
+
+**Job description**
+-------------------
+
+This role is based in India and as such all normal working days must be carried out in India.
+
+Join us as a Software Engineer
+
+* This is an opportunity for a driven Software Engineer to take on an exciting new career challenge
+* Day-to-day, you'll build a wide network of stakeholders of varying levels of seniority
+* It’s a chance to hone your existing technical skills and advance your career
+
+**What you'll do**
+------------------
+
+In your new role, you’ll engineer and maintain innovative, customer centric, high performance, secure and robust solutions. You’ll be working within a feature team and using your extensive experience to engineer software, scripts and tools that are often complex, as well as liaising with other engineers, architects and business analysts across the platform.
+
+You’ll also be:
+
+* Producing complex and critical software rapidly and of high quality which adds value to the business
+* Working in permanent teams who are responsible for the full life cycle, from initial development, through enhancement and maintenance to replacement or decommissioning
+* Collaborating to optimise our software engineering capability
+* Designing, producing, testing and implementing our working code
+* Working across the life cycle, from requirements analysis and design, through coding to testing, deployment and operations
+
+**The skills you'll need**
+--------------------------
+
+You’ll need a background in software engineering, software design, architecture, and an understanding of how your area of expertise supports our customers.
+
+You’ll also need:
+
+* Experience of working with development and testing tools, bug tracking tools and wikis
+* Experience in multiple programming languages or low code toolsets
+* Experience of DevOps, Testing and Agile methodology and associated toolsets
+* A background in solving highly complex, analytical and numerical problems
+* Experience of implementing programming best practice, especially around scalability, automation, virtualisation, optimisation, availability and performance
+
+**Welcome to our Bangalore hub**
+--------------------------------
+
+Located at Taurus 4, Bagmane Constellation Business Park, our new office stands as a state-of-the-art hub for innovation and collaboration.
+
+### **Key facts:**
+
+* A 30 acre campus
+* Space for 6,000 colleagues
+* Opened in 2025
+
+### **Our tech stack**
+
+Here’s just some of the technologies we use.
+
+### **Front end**
+
+* JavaScript
+* ReactJS
+* AngularJS
+
+### **Back end**
+
+* Python
+* Java
+* Microsoft Dynamics
+
+### **DevOps**
+
+* AWS
+* GitLab
+* Google Cloud Platform
+
+### **Data**
+
+* Kafka
+* Hadoop
+* PostgreSQL
+* Snowflake",,https://in.indeed.com/cmp/Natwest-Group,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f2407e68ab1b6fa5bae5fd5074cf5d57,https://www.natwestgroup.com,"Edinburgh, Scotland","10,000+",more than $10B (USD),We champion potential.,,,3.7,1194,,
+in-241e02c67b2362e9,indeed,https://in.indeed.com/viewjob?jk=241e02c67b2362e9,https://intel.wd1.myworkdayjobs.com/en-US/External/job/India-Bangalore/Low-Level-Software-Engineer_JR0288298,Low-Level Software Engineer,Intel Corporation,"KA, India",2026-10-23,fulltime,,,,,,False,,,,,"**Job Details:**
+================
+
+**Job Description:**
+--------------------
+
+* We are seeking a talented Software Engineer to join the development of Virtual Test Cards (VTC) and validation solutions used across Intel's product development lifecycle.
+* The role focuses on the design, development, validation, and debugging of Simics-based virtual models and software tools that emulate physical test cards and validation hardware integrated into HSLE, PV, and other validation environments.
+* These solutions are used to validate and test complex hardware and software interactions in both pre-silicon and post-silicon environments, enabling early feature development, system integration, platform bring-up, debugging, and verification.
+* They play a critical role in improving product quality and reducing time-to-market by providing scalable validation capabilities before and after silicon availability.
+* As part of the team, you will work closely with hardware, firmware, and software engineers to develop innovative validation tools and infrastructure, enhance simulation and automation capabilities, and support next-generation platform development from architecture definition through product deployment.
+
+**Qualifications:**
+-------------------
+
+* Bachelor's or Masters degree in Computer Science, Software Engineering, Computer Engineering, or an equivalent technical field with 2 to 6 years of experience.
+* Strong software development skills in C++ and Python, with experience building and maintaining complex software systems.
+* Experience in embedded software/firmware development, including low-level programming, debugging, and hardware-software interaction.
+* Solid understanding of the PCI Express (PCIe) protocol, including architecture, configuration space, enumeration, and data flow.
+* Hands-on experience with Simics, simulation environments, virtual platforms, or system-level modeling.
+* Experience with debugging complex system-level issues across hardware, firmware, and software boundaries.
+* Familiarity with modern software development methodologies, version control systems, and automated testing frameworks.
+* Experience using AI-assisted development tools such as GitHub Copilot, Microsoft Copilot, ChatGPT, or similar solutions to improve software development productivity, code quality, and engineering efficiency.
+Strong analytical and problem-solving skills with the ability to work independently and collaboratively in a multidisciplinary environment.  
+
+**Job Type:**
+-------------
+
+Experienced Hire
+
+**Shift:**
+----------
+
+Shift 1 (India)
+
+**Primary Location:**
+---------------------
+
+India, Bangalore
+
+**Additional Locations:**
+-------------------------
+
+**Posting Statement:**
+----------------------
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+**Position of Trust**
+---------------------
+
+N/A
+
+**Work Model for this Role**
+
+This role will require an on-site presence. \* Job posting details (such as work model, location or time type) are subject to change.
+
+
+
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter.",,https://in.indeed.com/cmp/Intel-Corporation,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9b9e9a0c9ad0ba9c08dbdb1c1f16f0e2,https://jobs.intel.com/,"Santa Clara, CA","10,000+",more than $10B (USD),"Intel put the Silicon in Silicon Valley, and today our technology remains at the core of the most exciting, life-changing innovations on the planet.",,,4.1,6839,,
+in-4defd0d84ddaf9e8,indeed,https://in.indeed.com/viewjob?jk=4defd0d84ddaf9e8,https://careers.cisco.com/global/en/job/2026818,Software Engineer,Cisco,"KA, India",2026-10-22,fulltime,,,,,,False,,,,,"Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices. Partners with other teams including design and product management to create the right solution for the customers. Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users. Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.What You’ll Do: • Contributes to solution of straightforward business problems regarding operations, products, services or customers.• Analyzes information, asks questions and checks for understanding using standard procedures within the job family.• Establishes relationships and collaborates effectively with own team.• Collaborates with others on projects and works on small-to-medium features from technical design through completion.• Applies understanding of the software development lifecycle and how various agile engineering practices can be used in own projects (e.g., requirements analysis, design, coding, unit testing, acceptance testing).• Participates in delivery of technical design features with guidance.• May apply understanding of how related features in a product solves one or more customer needs.• Writes functional clean code and unit tests with guidance.• Performs parts of the coding, debugging, testing and troubleshooting throughout the development process under supervision.• Assists in code reviews and addresses code review feedback.• Executes tests for scale, reliability and velocity within own code.• Applies depth of knowledge in secure coding principles and reviews others' code for compliance.• Monitors and triages incident reports and participates in postmortems and potential on-call duties.• Expert in one component of the codebase.• Shares knowledge from independent learning with the team.• Estimates time to complete assignments and communicates status, blockers, and delays to the team.• Identifies paths to eliminate blockers and meet deadlines when needed.• Collaborates with team members to share learnings or assist in problem solving/resolution.Minimum Qualifications: • Bachelors + 2 years of related experience OR Masters + 0 years of related experience.• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.Preferred QualificationsVaries based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.
+  
+  
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",,https://in.indeed.com/cmp/Cisco,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6bbb92c37d8935479e9d5f18032b42ba,http://www.cisco.com,"San Jose, CA","10,000+",more than $10B (USD),Our Purpose at Cisco is to Power an Inclusive Future for All. We do that by revolutionizing how data and infrastructure securely connect and protect organizations in the AI era – and beyond.,,,4.1,6657,,
+in-7a299459bf30dd37,indeed,https://in.indeed.com/viewjob?jk=7a299459bf30dd37,https://careers.cisco.com/global/en/job/2026386,Software Engineer,Cisco,"KA, India",2026-10-22,fulltime,,,,,,False,,,,,"**Meet the team:**  
+TheCisco Optical Network Controller (CONC) team is building next-generation SDN software to automate, visualize, and control optical networks across multi-layer infrastructures. Our solution is built on modern, cloud-native microservices architecture. In our team, engineers have end-to-end quality and feature ownership: we build the software and we automate the testing ourselves, writing robust backend services inJava and automated test suites inPython.
+  
+  
+**Your Impact:**  
+**Microservices Development:** Design, implement, and maintain scalable microservices inJava (Spring Boot / REST / gRPC) for optical network management and control plane workflows.
+  
+
+* Full Dev-Test Ownership: Write comprehensive unit, integration, and end-to-end automated tests inPython (PyTest, custom test harnesses) as part of your day-to-day feature deliverables.
+* Continuous Integration: Integrate automated Python test suites into CI/CD pipelines (Jenkins / GitLab CI) to guarantee zero regression and rapid release cycles.
+* Collaborate& Deliver: Work closely with Technical Leads, Product Managers, and team members in an Agile Scrum model to deliver resilient, production-ready software.
+
+**Minimum Qualifications:**  
+**Education& Experience:** Bachelor's or Master's in Computer Science, Computer Engineering, Electrical Engineering, or related discipline with1 to 3 years of hands-on software development experience.
+  
+
+* Core Java Skills: Strong foundation inCore Java, OOP design patterns, data structures, and building RESTful microservices.
+* Python Automation Skills: Practical experience writing clean, maintainablePython automation scripts/test suites for API, integration, and functional validation.
+* Containers& Orchestration: Hands-on familiarity withDocker, containerized deployments, and basicKubernetes.
+* Database& Messaging: Working knowledge of relational/NoSQL databases and messaging systems (e.g., Kafka, RabbitMQ).
+* Mindset: Strong quality-first mentality with a proactive attitude toward diagnosing and resolving automated test failures.
+
+Preferred Qualifications
+  
+  
+Familiarity with Optical Networking / SDN concepts, YANG data modeling, or NETCONF/RESTCONF protocols
+  
+  
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.",,https://in.indeed.com/cmp/Cisco,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6bbb92c37d8935479e9d5f18032b42ba,http://www.cisco.com,"San Jose, CA","10,000+",more than $10B (USD),Our Purpose at Cisco is to Power an Inclusive Future for All. We do that by revolutionizing how data and infrastructure securely connect and protect organizations in the AI era – and beyond.,,,4.1,6657,,
+in-50174832c3e64cbb,indeed,https://in.indeed.com/viewjob?jk=50174832c3e64cbb,https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67?jobSite=Indeed,Software Engineer I,Rippling,"KA, India",2026-10-22,fulltime,,,,,,False,,,,accomodations@rippling.com,"**About Rippling**
+------------------
+
+Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.
+
+Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and Microsoft 365—all within 90 seconds.
+
+Based in San Francisco, CA, Rippling has raised $1.8B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of America's best startup employers by Forbes.
+
+We prioritize candidate safety. Please be aware that all official communication will only be sent from @Rippling.com addresses.
+
+**About The Role**
+
+The Finance Experience Team builds the foundation and platform for Rippling’s Finance Suite. Our mission is to make every Finance product feel like one coherent, intelligent suite—not a collection of separate tools. We own the common experiences, workflows, controls, data platforms, and AI-assisted capabilities used across Spend, Accounting, and related Finance products.
+
+**What You Will Do**
+
+* Build high-quality web and mobile experiences spanning Finance Overview, Tasks, People, Settings, notifications, and suite-wide navigation.
+* Develop shared application platforms and public APIs that enable Finance product teams to build consistent, scalable features quickly.
+* Engineer foundational data experiences, including configurable grids, advanced filtering and sorting, bulk actions, reconciliation workflows, and rich transaction line items.
+* Build secure, auditable controls such as permissions, policies, approvals, delegation, and rule-engine capabilities that work consistently across Finance products.
+* Collaborate closely with product, design, and engineering teams to simplify complex financial workflows into intuitive experiences for employees and finance administrators.
+* Contribute to AI-powered experiences that help customers understand their financial data, complete tasks, and operate more efficiently across the Finance Suite.
+
+**What You Will Have**
+
+* 1-2 years experience working with fast growing, top tier product companies
+* Strong coding in one or more programming languages such as Java, Python, C++, or Go.
+* Expert understanding of data structures, algorithms, software design principles and low level design
+* Ability to communicate clearly and work effectively in a collaborative environment
+* Understanding of system design and complex distributed systems
+* Eagerness to learn new technologies and apply them to solve real-world problems.
+* Bonus points for open source contributions, competitive coding experience, and a strong Computer Science background from a Tier 1 institution.
+
+**Additional Information**
+
+Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email accomodations@rippling.com
+
+Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees who live within a defined radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an essential function of the employee's role.",,https://in.indeed.com/cmp/Rippling,,,n/a,1,,,,,2.3,18,,
